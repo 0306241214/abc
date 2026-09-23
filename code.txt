@@ -4,6 +4,5 @@ Xin chao tran thanh an
 abc
 a
 a1
-Xin chao nguyen van doan
-Xin chao tran thanh an
+
 
